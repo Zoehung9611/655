@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://Zoehung9611.github.io/79898989/sitemap.xml

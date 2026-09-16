@@ -1,0 +1,27 @@
+# My Export Site
+
+> llms.txt 供大语言模型与 AI 搜索读取。
+
+## 站点简介 (Brand Summary)
+My Export Site - Professional Manufacturer & Supplier
+
+## 核心卖点 (Selling Points)
+
+- Factory Direct
+- Fast Shipping
+- Quality Guarantee
+- 24h Service
+
+## 主要页面
+
+- Home: https://Zoehung9611.github.io/79898989/
+- Contact: https://Zoehung9611.github.io/79898989/contact.html
+- FAQ: https://Zoehung9611.github.io/79898989/faq.html
+
+## 产品列表 (0)
+
+
+## 多语言 (Multi-language)
+
+- Default language: en (en)
+- Published language versions: en
